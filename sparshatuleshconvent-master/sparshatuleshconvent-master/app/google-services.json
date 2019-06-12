@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1046510766674",
+    "firebase_url": "https://atuleshsparsh.firebaseio.com",
+    "project_id": "atuleshsparsh",
+    "storage_bucket": "atuleshsparsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046510766674:android:c43f1ba6028f08b8",
+        "android_client_info": {
+          "package_name": "com.relecotech.androidsparsh_atulesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046510766674-rvjg8utu80hk5103o256scddolopeef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYWXu8FES2wwNDo3SY2el1nTM5GWT_-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
